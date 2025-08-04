@@ -19,6 +19,7 @@ A singly linked list is a fundamental data structure consisting of nodes where e
 - Search for elements in the list
 - Concatanating two lists
 - Merging two Sorted lists
+- Removing Duplicates from Sorted list
 - Additional utility methods as applicable
 
 ---
