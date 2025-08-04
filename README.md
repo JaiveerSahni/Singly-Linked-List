@@ -17,6 +17,7 @@ A singly linked list is a fundamental data structure consisting of nodes where e
 - Delete nodes by value or position
 - Traverse and display the list
 - Search for elements in the list
+- Concatanating two lists
 - Additional utility methods as applicable
 
 ---
